@@ -79,41 +79,34 @@ I will start most classroom days with a brief discussion about current events re
 
 Other excellent climate newsletters are put out by the *New York Times* (Climate Forward), the *New Yorker,* the *Atlantic,* the *Wall Street Journal,* the *Washington Post,* *Time,* etc. It is all too much to read every day, but a valuable way to see what energy and climate people are talking about.
 
-**Schedule & topics**    
-All readings can be found in the bibliography, class Google drive, and/or on the web. Readings are denoted by (links), with a dash to indicate chapter numbers and/or appendix letters. For example,    
-\`\[1\]-2,3' indicates reading 1, chapters 2 and 3; s = skim; psets = problem sets; rq = send reading    
-questions in for discussion on Slack.    
- 
+## Schedule and Topics   
 
-Date # Topic Reading, class prep:    
-Welcome! 9/9 1 Class focus & meet \[1\]-1,2, \[2{4\]    
-9/14 2 Cities & decarbonization \[5{8\], \[9\]-s, ps1    
-9/16 3 Equitable, just transition \[10{12\], \[13\]-s, ps2    
-End uses 9/21 4 Personal transport \[1\]-3,20,A, \[14{17\], ps3    
-9/23 5 Transport systems \[1\]-5,C, \[18{20\], ps4    
-9/28 6 Transportation impact \[21, 22\], \[23\]-s, ps4    
-9/30 7 Building energy use \[1\]-7,9,11,E, \[24, 25\], ps5    
-10/5 8 Buildings policies \[26, 27\], \[28{30\], ps6    
-10/7 9 Energy eciency \[1\]-19,21,22, \[31, 32\], \[33\]-6, \[34\]-s, ps7    
-10/12 10 Industry, making stu \[1\]-15,H, \[35{39\], ps8        
-Sources 10/14 11 Fossil, CDR & nuclear \[1\]-23,24, \[40{43\], ps9    
-& systems 10/19 12 Solar, wind \[1\]-4,6,8,B,D, \[44, 45\], ps10    
-10/21 13 More renewables \[1\]-10,16,18, \[46{49\], ps11    
-10/26 14 Distributed resources \[1\]-25,26,27, \[50{52\], ps12    
-10/28 15 Food & carbon sinks \[1\]-13, \[53\]-s, \[54{57\], ps13    
-11/2 16 Midterm exam    
-Policy & 11/4 17 \`The grid' system \[58\]-1,3,5,6, rq    
-institutions 11/9 18 \`The grid' continued \[59, 60\], \[61\]-read one sector, rq    
-11/11 Veteran's Day    
-11/16 19 Regulation \[62\]-1, \[63\]-2, \[64, 65\], rq    
-11/18 20 Ownership \[66{73\], rq    
-11/23 21 Scales & choices \[74{76\], \[77\]-s, \[78\]-s, rq    
-11/25 Thanksgiving    
-11/30 22 Possible futures \[79{81\], \[82\]-s, rq    
-Wrapping 12/2 23 Group discussion 1 Order TBD    
-up 12/7 24 Group discussion 2 Order TBD    
-12/9 25 Group discussion 3 Order TBD    
-12/11 Final papers due 5 pm
+Session 1: Welcome! Class Focus and Meet   
+Session 2: Welcome! Cities and Decarbonization; problem set 1 due   
+Session 3: Welcome! Equitable, Just Transition; problem set 2 due   
+Session 4: End Uses: Personal Transport; problem set 3 due     
+Session 5: End Uses: Transport Systems;  
+Session 6: End Uses: Transportation Impact; problem set 4 due   
+Session 7: End Uses:  Building Energy Use; problem set 5 due      
+Session 8: End Uses:  Buildings Policies; problem set 6 due      
+Session 9: End Uses: Energy Efficiency; problem set 7 due   
+Session 10: End Uses: Industry, Making Stuff; problem set 8 due       
+Session 11: Sources and Systems: 10/14 11 Fossil, CDR, and Nuclear; problem set 9 due    
+Session 12: Sources and Systems: 12 Solar, Wind; problem set 10 due      
+Session 13: Sources and Systems: More Renewables; problem set 11 due   
+Session 14: Sources and Systems: Distributed Resources; problem set 12 due    
+Session 15: Sources and Systems: Food and Carbon Sinks; problem set 13 due     
+Session 16: Midterm exam     
+Session 17: Policy and Institutions: "The Grid" System; reading questions due  
+Session 18: Policy and Institutions: "The Grid" Continued; reading questions due    
+Session 19: Policy and Institutions: Regulation; reading questions due    
+Session 20: Policy and Institutions: Ownership; reading questions due  
+Session 21: Policy and Institutions: Scales and Choices; reading questions due  
+Session 22: Policy and Institutions: Possible Futures; reading questions due     
+Session 23: Wrapping Up: Group discussion 1  
+Session 24: Wrapping Up: Group discussion 2   
+Session 25: Wrapping Up: Group discussion 3  
+Session 26: Wrapping Up: Final papers due
 
 ## Grading
 
