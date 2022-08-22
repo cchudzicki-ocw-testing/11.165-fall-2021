@@ -81,31 +81,31 @@ Other excellent climate newsletters are put out by the *New York Times* (Climate
 
 ## Schedule and Topics   
 
-Session 1: Welcome! Class Focus and Meet   
-Session 2: Welcome! Cities and Decarbonization; problem set 1 due   
-Session 3: Welcome! Equitable, Just Transition; problem set 2 due   
-Session 4: End Uses: Personal Transport; problem set 3 due     
-Session 5: End Uses: Transport Systems;  
-Session 6: End Uses: Transportation Impact; problem set 4 due   
-Session 7: End Uses:  Building Energy Use; problem set 5 due      
-Session 8: End Uses:  Buildings Policies; problem set 6 due      
-Session 9: End Uses: Energy Efficiency; problem set 7 due   
-Session 10: End Uses: Industry, Making Stuff; problem set 8 due       
-Session 11: Sources and Systems: 10/14 11 Fossil, CDR, and Nuclear; problem set 9 due    
-Session 12: Sources and Systems: 12 Solar, Wind; problem set 10 due      
-Session 13: Sources and Systems: More Renewables; problem set 11 due   
-Session 14: Sources and Systems: Distributed Resources; problem set 12 due    
-Session 15: Sources and Systems: Food and Carbon Sinks; problem set 13 due     
-Session 16: Midterm exam     
-Session 17: Policy and Institutions: "The Grid" System; reading questions due  
-Session 18: Policy and Institutions: "The Grid" Continued; reading questions due    
-Session 19: Policy and Institutions: Regulation; reading questions due    
-Session 20: Policy and Institutions: Ownership; reading questions due  
-Session 21: Policy and Institutions: Scales and Choices; reading questions due  
-Session 22: Policy and Institutions: Possible Futures; reading questions due     
-Session 23: Wrapping Up: Group discussion 1  
-Session 24: Wrapping Up: Group discussion 2   
-Session 25: Wrapping Up: Group discussion 3  
+Session 1: Welcome! Class Focus and Meet    
+Session 2: Welcome! Cities and Decarbonization; problem set 1 due    
+Session 3: Welcome! Equitable, Just Transition; problem set 2 due    
+Session 4: End Uses: Personal Transport; problem set 3 due      
+Session 5: End Uses: Transport Systems;   
+Session 6: End Uses: Transportation Impact; problem set 4 due    
+Session 7: End Uses:  Building Energy Use; problem set 5 due       
+Session 8: End Uses:  Buildings Policies; problem set 6 due       
+Session 9: End Uses: Energy Efficiency; problem set 7 due    
+Session 10: End Uses: Industry, Making Stuff; problem set 8 due        
+Session 11: Sources and Systems: 10/14 11 Fossil, CDR, and Nuclear; problem set 9 due     
+Session 12: Sources and Systems: 12 Solar, Wind; problem set 10 due       
+Session 13: Sources and Systems: More Renewables; problem set 11 due    
+Session 14: Sources and Systems: Distributed Resources; problem set 12 due     
+Session 15: Sources and Systems: Food and Carbon Sinks; problem set 13 due      
+Session 16: Midterm exam      
+Session 17: Policy and Institutions: "The Grid" System; reading questions due   
+Session 18: Policy and Institutions: "The Grid" Continued; reading questions due     
+Session 19: Policy and Institutions: Regulation; reading questions due     
+Session 20: Policy and Institutions: Ownership; reading questions due   
+Session 21: Policy and Institutions: Scales and Choices; reading questions due   
+Session 22: Policy and Institutions: Possible Futures; reading questions due      
+Session 23: Wrapping Up: Group discussion 1   
+Session 24: Wrapping Up: Group discussion 2    
+Session 25: Wrapping Up: Group discussion 3   
 Session 26: Wrapping Up: Final papers due
 
 ## Grading
@@ -129,20 +129,7 @@ Session 26: Wrapping Up: Final papers due
 
 ## Assignments and Due Dates
 
-Problem sets and reading questions are due by midnight (11:59 pm) the day before class. Earlier is better for your sleep, though!
-
-- The exam will follow a similar format as the problem sets. I may also give some additional practice problems.
-- Paper proposal: one-page single-spaced proposal maximum for your final paper (see below). The topic is not binding, but I want you to think about the topic and area early so you can look out for, and suggest to each other, material for your papers.
-- Short presentation: schedule TBD based on student interests (and numbers). One slide maximum, 16 point font minimum, must be circulated to your classmates and me in PDF format one full day beforehand. 
-- Final paper: this will describe a strategic plan to meet one specific energy challenge for a specific city. This paper will include a description of your plan and/or intervention, with an assessment of its prospects for success (strengths, weaknesses, other contributing factors necessary), an assessment of the capability of proposed or existing institutions to carry out the plan, and an analysis of its likely environmental, economic, and social effects. You should also turn in basic calculations as needed (not included in the paper page limit), which shows how you derived the key calculations that are the foundation of your paper analysis. Due two days after last class. 
-
-### Paper criteria
-
-In general, papers will be evaluated based on the degree to which they present a clear and coherent argument, introduce appropriate supporting evidence, and develop the argument to a logical conclusion. You should develop your writing and thoughts through multiple written drafts. Other considerations:
-
-- Format: Avoid overly fancy graphic layouts for your paper. Please use black text, white paper, 1.5 or double-spacing, a font with serifs, minimum font size 11. 
-- Bibliographies: You should include a full bibliography in a common citation format (for example, University of Chicago, Harvard, MLA). This will not count towards the total pages of the paper. [Zotero](https://www.zotero.org/) is a great free tool that can help you organize your citations, materials, and writing process.
-- Tables and graphics: You are encouraged to use any tools that you need to communicate, such as maps, figures, or tables, but these exhibits may not exceed 20% of the pages. Captions and references help to integrate graphics and text. These exhibits will also be graded for clarity, cogency, and the degree to which they support, inform, or extend the argument presented in the text.
+Problem sets and reading questions are due by midnight (11:59 pm) the day before class. Earlier is better for your sleep, though! For more details on the expectations for the assignments, see the {{% resource_link "5da90314-a12e-44d0-88dd-6f3ab1ffbe35" "Assignments" %}} page.
 
 ### Extensions
 
