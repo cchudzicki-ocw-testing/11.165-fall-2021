@@ -70,7 +70,7 @@ There are two books for the class. The first is required and the second is optio
 - Required (free): MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed.. UIT Cambridge Ltd. ISBN: 9780954452933. Available in paperback from your local or global bookseller for $27–50, and/or can be downloaded legally as a PDF or read in webpage format at [withouthotair.com](withouthotair.com). 
 - Optional: Hawken, Paul, ed. 2017. *Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming.* Penguin. ISBN: 9780143130444.
 
-Other papers assigned for each class and which will be available on the class folder on the cloud. I may occasionally modify the weekly readings and will notify you in advance.
+Other papers assigned for each class are listed on the {{% resource_link "c1dcc394-8b93-4ab1-a0b0-eae57ec3b56c" "Readings" %}} page.
 
 I will start most classroom days with a brief discussion about current events related to our reading, and this news service provides terrific updates that will keep you updated on energy, climate, as well as related policies and legislation. You can also sign up in advance for two news services:
 
@@ -79,40 +79,40 @@ I will start most classroom days with a brief discussion about current events re
 
 Other excellent climate newsletters are put out by the *New York Times* (Climate Forward), the *New Yorker,* the *Atlantic,* the *Wall Street Journal,* the *Washington Post,* *Time,* etc. It is all too much to read every day, but a valuable way to see what energy and climate people are talking about.
 
-**Schedule & topics**   
-All readings can be found in the bibliography, class Google drive, and/or on the web. Readings are denoted by (links), with a dash to indicate chapter numbers and/or appendix letters. For example,   
-\`\[1\]-2,3' indicates reading 1, chapters 2 and 3; s = skim; psets = problem sets; rq = send reading   
-questions in for discussion on Slack.   
+**Schedule & topics**    
+All readings can be found in the bibliography, class Google drive, and/or on the web. Readings are denoted by (links), with a dash to indicate chapter numbers and/or appendix letters. For example,    
+\`\[1\]-2,3' indicates reading 1, chapters 2 and 3; s = skim; psets = problem sets; rq = send reading    
+questions in for discussion on Slack.    
  
 
-Date # Topic Reading, class prep:   
-Welcome! 9/9 1 Class focus & meet \[1\]-1,2, \[2{4\]   
-9/14 2 Cities & decarbonization \[5{8\], \[9\]-s, ps1   
-9/16 3 Equitable, just transition \[10{12\], \[13\]-s, ps2   
-End uses 9/21 4 Personal transport \[1\]-3,20,A, \[14{17\], ps3   
-9/23 5 Transport systems \[1\]-5,C, \[18{20\], ps4   
-9/28 6 Transportation impact \[21, 22\], \[23\]-s, ps4   
-9/30 7 Building energy use \[1\]-7,9,11,E, \[24, 25\], ps5   
-10/5 8 Buildings policies \[26, 27\], \[28{30\], ps6   
-10/7 9 Energy eciency \[1\]-19,21,22, \[31, 32\], \[33\]-6, \[34\]-s, ps7   
-10/12 10 Industry, making stu \[1\]-15,H, \[35{39\], ps8       
-Sources 10/14 11 Fossil, CDR & nuclear \[1\]-23,24, \[40{43\], ps9   
-& systems 10/19 12 Solar, wind \[1\]-4,6,8,B,D, \[44, 45\], ps10   
-10/21 13 More renewables \[1\]-10,16,18, \[46{49\], ps11   
-10/26 14 Distributed resources \[1\]-25,26,27, \[50{52\], ps12   
-10/28 15 Food & carbon sinks \[1\]-13, \[53\]-s, \[54{57\], ps13   
-11/2 16 Midterm exam   
-Policy & 11/4 17 \`The grid' system \[58\]-1,3,5,6, rq   
-institutions 11/9 18 \`The grid' continued \[59, 60\], \[61\]-read one sector, rq   
-11/11 Veteran's Day   
-11/16 19 Regulation \[62\]-1, \[63\]-2, \[64, 65\], rq   
-11/18 20 Ownership \[66{73\], rq   
-11/23 21 Scales & choices \[74{76\], \[77\]-s, \[78\]-s, rq   
-11/25 Thanksgiving   
-11/30 22 Possible futures \[79{81\], \[82\]-s, rq   
-Wrapping 12/2 23 Group discussion 1 Order TBD   
-up 12/7 24 Group discussion 2 Order TBD   
-12/9 25 Group discussion 3 Order TBD   
+Date # Topic Reading, class prep:    
+Welcome! 9/9 1 Class focus & meet \[1\]-1,2, \[2{4\]    
+9/14 2 Cities & decarbonization \[5{8\], \[9\]-s, ps1    
+9/16 3 Equitable, just transition \[10{12\], \[13\]-s, ps2    
+End uses 9/21 4 Personal transport \[1\]-3,20,A, \[14{17\], ps3    
+9/23 5 Transport systems \[1\]-5,C, \[18{20\], ps4    
+9/28 6 Transportation impact \[21, 22\], \[23\]-s, ps4    
+9/30 7 Building energy use \[1\]-7,9,11,E, \[24, 25\], ps5    
+10/5 8 Buildings policies \[26, 27\], \[28{30\], ps6    
+10/7 9 Energy eciency \[1\]-19,21,22, \[31, 32\], \[33\]-6, \[34\]-s, ps7    
+10/12 10 Industry, making stu \[1\]-15,H, \[35{39\], ps8        
+Sources 10/14 11 Fossil, CDR & nuclear \[1\]-23,24, \[40{43\], ps9    
+& systems 10/19 12 Solar, wind \[1\]-4,6,8,B,D, \[44, 45\], ps10    
+10/21 13 More renewables \[1\]-10,16,18, \[46{49\], ps11    
+10/26 14 Distributed resources \[1\]-25,26,27, \[50{52\], ps12    
+10/28 15 Food & carbon sinks \[1\]-13, \[53\]-s, \[54{57\], ps13    
+11/2 16 Midterm exam    
+Policy & 11/4 17 \`The grid' system \[58\]-1,3,5,6, rq    
+institutions 11/9 18 \`The grid' continued \[59, 60\], \[61\]-read one sector, rq    
+11/11 Veteran's Day    
+11/16 19 Regulation \[62\]-1, \[63\]-2, \[64, 65\], rq    
+11/18 20 Ownership \[66{73\], rq    
+11/23 21 Scales & choices \[74{76\], \[77\]-s, \[78\]-s, rq    
+11/25 Thanksgiving    
+11/30 22 Possible futures \[79{81\], \[82\]-s, rq    
+Wrapping 12/2 23 Group discussion 1 Order TBD    
+up 12/7 24 Group discussion 2 Order TBD    
+12/9 25 Group discussion 3 Order TBD    
 12/11 Final papers due 5 pm
 
 ## Grading
