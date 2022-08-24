@@ -81,31 +81,56 @@ Other excellent climate newsletters are put out by the *New York Times* (Climate
 
 ## Schedule and Topics   
 
-Session 1: Introduction: Welcome!     
-Session 2: Introduction: Cities and Decarbonization; problem set 1 due      
-Session 3: Introduction: Equitable, Just Transition; problem set 2 due      
-Session 4: End Uses: Personal Transport; problem set 3 due        
-Session 5: End Uses: Transport Systems;     
-Session 6: End Uses: Transportation Impact; problem set 4 due      
-Session 7: End Uses:  Building Energy Use; problem set 5 due         
-Session 8: End Uses:  Buildings Policies; problem set 6 due         
-Session 9: End Uses: Energy Efficiency; problem set 7 due      
-Session 10: End Uses: Industry, Making Stuff; problem set 8 due          
-Session 11: Sources and Systems: Fossil, CDR, and Nuclear; problem set 9 due       
-Session 12: Sources and Systems: 12 Solar, Wind; problem set 10 due         
-Session 13: Sources and Systems: More Renewables; problem set 11 due      
-Session 14: Sources and Systems: Distributed Resources; problem set 12 due       
-Session 15: Sources and Systems: Food and Carbon Sinks; problem set 13 due        
-Session 16: Midterm exam        
-Session 17: Policy and Institutions: "The Grid" System; reading questions due     
-Session 18: Policy and Institutions: "The Grid" Continued; reading questions due       
-Session 19: Policy and Institutions: Regulation; reading questions due       
-Session 20: Policy and Institutions: Ownership; reading questions due     
-Session 21: Policy and Institutions: Scales and Choices; reading questions due     
-Session 22: Policy and Institutions: Possible Futures; reading questions due        
-Session 23: Wrapping Up: Group discussion 1     
-Session 24: Wrapping Up: Group discussion 2      
-Session 25: Wrapping Up: Group discussion 3     
+Session 1: Introduction: Welcome!
+
+Session 2: Introduction: Cities and Decarbonization; problem set 1 due
+
+Session 3: Introduction: Equitable, Just Transition; problem set 2 due
+
+Session 4: End Uses: Personal Transport; problem set 3 due
+
+Session 5: End Uses: Transport Systems
+
+Session 6: End Uses: Transportation Impact; problem set 4 due
+
+Session 7: End Uses: Building Energy Use; problem set 5 due
+
+Session 8: End Uses:  Buildings Policies; problem set 6 due
+
+Session 9: End Uses: Energy Efficiency; problem set 7 due
+
+Session 10: End Uses: Industry, Making Stuff; problem set 8 due
+
+Session 11: Sources and Systems: Fossil, CDR, and Nuclear; problem set 9 due
+
+Session 12: Sources and Systems: 12 Solar, Wind; problem set 10 due
+
+Session 13: Sources and Systems: More Renewables; problem set 11 due
+
+Session 14: Sources and Systems: Distributed Resources; problem set 12 due
+
+Session 15: Sources and Systems: Food and Carbon Sinks; problem set 13 due
+
+Session 16: Midterm exam
+
+Session 17: Policy and Institutions: "The Grid" System; reading questions due
+
+Session 18: Policy and Institutions: "The Grid" Continued; reading questions due
+
+Session 19: Policy and Institutions: Regulation; reading questions due
+
+Session 20: Policy and Institutions: Ownership; reading questions due
+
+Session 21: Policy and Institutions: Scales and Choices; reading questions due
+
+Session 22: Policy and Institutions: Possible Futures; reading questions due
+
+Session 23: Wrapping Up: Group discussion 1
+
+Session 24: Wrapping Up: Group discussion 2
+
+Session 25: Wrapping Up: Group discussion 3
+
 Session 26: Wrapping Up: Final papers due
 
 ## Grading
