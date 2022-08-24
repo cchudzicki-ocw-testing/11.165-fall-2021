@@ -24,8 +24,7 @@ James H. Williams, Ryan A. Jones, Ben Haley, Gabe Kwok, Jeremy Hargreaves, Jamil
 
 Felix Creutzig, Giovanni Baiocchi, Robert Bierkandt, Peter-Paul Pichler, and Karen C. Seto (2015). ["Global Typology of Urban Energy Use and Potentials for an Urbanization Mitigation Wedge."](https://www.pnas.org/doi/10.1073/pnas.1315545112)  *Proceedings of the National Academy of Sciences* 112(20): 6283–6288.
 
-Angel Hsu, Niklas Höhne, Takeshi Kuramochi, Mark Roelfsema, Amy Weinfurter, Yihao Xie, Katharina Lutkehermoller, Sander Chan, Jan Corfee-Morlot, Philip Drost, Pedro Faria,                      
-Ann Gardiner, David J. Gordon, Thomas Hale, Nathan E. Hultman, John Moorhead, Shirin Reuvers, Joana Setzer, Neelam Singh, Christopher Weber, and Oscar Widerberg (2019). ["A Research Roadmap for Quantifying Non-state and Subnational Climate Mitigation Action."](https://www.nature.com/articles/s41558-018-0338-z) *Nature Climate Change* 9(1): 11–17.
+Angel Hsu, Niklas Höhne, Takeshi Kuramochi, Mark Roelfsema, Amy Weinfurter, Yihao Xie, Katharina Lütkehermöller, Sander Chan, Jan Corfee-Morlot, Philip Drost, Pedro Faria, Ann Gardiner, David J. Gordon, Thomas Hale, Nathan E. Hultman, John Moorhead, Shirin Reuvers, Joana Setzer, Neelam Singh, Christopher Weber, and Oscar Widerberg (2019). ["A Research Roadmap for Quantifying Non-state and Subnational Climate Mitigation Action."](https://www.nature.com/articles/s41558-018-0338-z) *Nature Climate Change* 9(1): 11–17.
 
 Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng Hong, Yue Qin, and Steven J. Davis (2019). ["Committed Emissions from Existing Energy Infrastructure Jeopardize 1.5 °C Climate Target."](https://www.nature.com/articles/s41586-019-1364-3) *Nature* 572(7769): 373–377.
 
@@ -33,8 +32,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                      
-                     
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                       
+                      
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
@@ -59,7 +58,7 @@ Arianna Skibell. ["EPA Faces Mounting Calls for Stronger Tailpipe Rule."](https:
 
 Aiofe O'Leary (2019). "Aviation." Chapter 16 in Michael B. Gerrard and John C. Dernbach (eds.), *Legal Pathways to Deep Decarbonization in the United States*, 1st ed. Environmental Law Institute. ISBN: 9781585761975
 
-D. S. Lee, D. W. Fahey, A. Skowron, M. R. Allen, U. Burkhardt, Q. Chen, S. J. Doherty, S. Freeman, P. M. Forster, J. Fuglestvedt, A. Gettelman, R. R. De Leon, L. L. Lim, M. T. Lund, R. J. Millar, B. Owen, J. E. Penner, G. Pitari, M. J. Prather, R. Sausen, and L. J. Wilcox (2021). ["The Contribution of Global Aviation to Anthropogenic Climate Forcing for 2000 to 2018."](https://www.sciencedirect.com/science/article/pii/S1352231020305689) *Atmospheric Environment* 244: 117834.
+D. S. Lee, D. W. Fahey, A. Skowron, M. R. Allen, U. Burkhardt, Q. Chen, S. J. Doherty, S. Freeman, P. M. Forster, J. Fuglestvedt, A. Gettelman, R. R. De León, L. L. Lim, M. T. Lund, R. J. Millar, B. Owen, J. E. Penner, G. Pitari, M. J. Prather, R. Sausen, and L. J. Wilcox (2021). ["The Contribution of Global Aviation to Anthropogenic Climate Forcing for 2000 to 2018."](https://www.sciencedirect.com/science/article/pii/S1352231020305689) *Atmospheric Environment* 244: 117834.
 
 Stefan Gössling and Andreas Humpe (2020). ["The Global Scale, Distribution and Growth of Aviation: Implications for Climate Change."](https://www.sciencedirect.com/science/article/pii/S0959378020307779) *Global Environmental Change* 65: 102194.
 
@@ -89,7 +88,7 @@ Ian G. Hamilton, Alex J. Summerfield, Robert Lowe, Paul Ruyssevelt, Clifford A. 
 
 Tianzhen Hong, Da Yan, Simona D'Oca, and Chien-Fei Chen. ["Ten Questions Concerning Occupant Behavior in Buildings: The Big Picture."](https://www.sciencedirect.com/science/article/pii/S0360132316304851) *Building and Environment* 114: 518–530.
 
-C. Blumstein, B. Krieg, L. Schipper, and C. York (1980). ["Overcoming Social and Institutional Barriers to Energy Conservation."](https://www.sciencedirect.com/science/article/pii/0360544280900365) *Energy* 5(4): 355–371.
+Carl Blumstein, Betsy Krieg, Lee Schipper, and Carl York (1980). ["Overcoming Social and Institutional Barriers to Energy Conservation."](https://www.sciencedirect.com/science/article/pii/0360544280900365) *Energy* 5(4): 355–371.
 
 ### Session 9: Energy Efficiency
 
@@ -111,7 +110,7 @@ Bill Gates. ["Here's a Question You Should Ask about Every Climate Change Plan.
 
 Max Åhman, Lars J. Nilsson, and Bengt Johansson (2017). ["Global Climate Policy and Deep Decarbonization of Energy-Intensive Industries."](https://www.tandfonline.com/doi/full/10.1080/14693062.2016.1167009) *Climate Policy* 17(5):634–649.
 
-Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller,                      
+Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller,                       
 Joyashree Roy, Paul Fennell, Betty Cremmins, Thomas Koch Blank, David Hone, Ellen D. Williams, Stephane de la Rue du Can, Bill Sisson, Mike Williams, John Katzenberger, Dallas Burtraw, Girish Sethi, He Ping, David Danielson, Hongyou Lu, Tom Lorber, Jens Dinkel, and Jonas Helseth (2020). ["Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070."](https://www.sciencedirect.com/science/article/pii/S0306261920303603) *Applied Energy* 266: 114848.
 
 David Roberts. ["Cities Are Beginning to Own Up to the Climate Impacts of What They Consume."](https://www.vox.com/energy-and-environment/2019/7/1/18743992/climate-change-cities-food-cars-emissions) Vox, July 1, 2019.
@@ -122,7 +121,7 @@ C40 Cities Climate Leadership Group, University of Leeds, University of New Sout
 
 \[DM\] chapters 23–24
 
-David Roberts. ["Sucking Carbon out of the Air Won't Solve Climate Change."](https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering) Vox, June 14, 2018. URL [https://www.vox.com/energy-and-environment/2018/6/14/17445622/](https://www.vox.com/energy-and-environment/2018/6/14/17445622/)                      
+David Roberts. ["Sucking Carbon out of the Air Won't Solve Climate Change."](https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering) Vox, June 14, 2018. URL [https://www.vox.com/energy-and-environment/2018/6/14/17445622/](https://www.vox.com/energy-and-environment/2018/6/14/17445622/)                       
 direct-air-capture-air-to-fuels-carbon-dioxide-engineering.
 
 David W. Keith, Geoffrey Holmes, David St Angelo, and Kenton Heidel (2018). ["A Process for Capturing CO2 from the Atmosphere."](https://www.sciencedirect.com/science/article/pii/S2542435118302253) *Joule* 2(8): 1573–1594.
@@ -173,7 +172,7 @@ Xiongxiong Bai, Yawen Huang, Wei Ren, Mark Coyne, Pierre-Andre Jacinthe, Bo Tao,
 
 Ray Tomalty. ["Carbon in the Bank—Ontario's Greenbelt and Its Role in Mitigating Climate Change."](https://davidsuzuki.org/science-learning-centre-article/carbon-bank-ontarios-greenbelt-role-mitigating-climate-change/) Technical report, David Suzuki Foundation, August 2012.
 
-A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https://www.nature.com/articles/ncomms13835) *Nature Communications* 7                      
+A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https://www.nature.com/articles/ncomms13835) *Nature Communications* 7                       
 (1): 13835.
 
 ### Session 16: 
@@ -182,7 +181,7 @@ A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https
 
 ### Session 17: "The Grid" System
 
-Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf)       
+Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf)        
 [Basics (PDF - 10.5 MB)](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf), chapters 1, 3, 5, 6. Technical report, 2015.
 
 ### Session 18: "The Grid" Continued
@@ -227,7 +226,7 @@ Michael Wara (2016). ["Competition at the Grid Edge: Innovation and Antitrust La
 
 Ari Peskoe (2021). ["Is the Utility Transmission Syndicate Forever?" (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770740). SSRN Scholarly Paper ID 3770740.
 
-Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report,                      
+Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report,                       
 May 2019.
 
 \[skim\] Richard J Campbell. ["Customer Choice and the Power Industry of the Future" (PDF)](https://sgp.fas.org/crs/misc/R43742.pdf). CRS Report R43742, Congressional Research Service, January 2016.
@@ -240,9 +239,7 @@ Tineke van der Schoor, Harro van Lente, Bert Scholtens, and Alexander Peine (201
 
 Efrain O'Neill-Carrillo, Isaac Jordán, Agustín Irizarry-Rivera, and Rafael Cintrón (2018). ["The Long Road to Community Microgrids: Adapting to the Necessary Changes for Renewable Energy Implementation."](https://ieeexplore.ieee.org/document/8551301) *IEEE Electrification Magazine* 6(4): 6–17.
 
-David Hsu (2021). ["Straight out of Cape Cod: The Origin of Community Choice Aggregation and Its Spread to Other States."](https://www.sciencedirect.com/science/article/pii/S2214629621004783) *Energy Research & Social Science*
-
-86: 102393.
+David Hsu (2021). ["Straight out of Cape Cod: The Origin of Community Choice Aggregation and Its Spread to Other States."](https://www.sciencedirect.com/science/article/pii/S2214629621004783) *Energy Research & Social Science* 86: 102393.
 
 \[skim\] Ignacio Pérez-Arriaga and Christopher Knittel. [The Utility of the Future (PDF - 11 MB)](https://energy.mit.edu/wp-content/uploads/2016/12/Utility-of-the-Future-Full-Report.pdf). Technical report, MIT Energy Initiatve, 2016.
 
