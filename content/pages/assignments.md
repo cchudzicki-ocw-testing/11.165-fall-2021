@@ -12,7 +12,7 @@ Problem sets and reading questions are due by midnight (11:59 pm) the day before
 
 - The exam will follow a similar format as the problem sets. I may also give some additional practice problems.
 - Paper proposal: one-page single-spaced proposal maximum for your final paper (see below). The topic is not binding, but I want you to think about the topic and area early so you can look out for, and suggest to each other, material for your papers.
-- Short presentation: schedule TBD based on student interests (and numbers). One slide maximum, 16 point font minimum, must be circulated to your classmates and me in PDF format one full day beforehand. 
+- Short presentation: one slide maximum, 16 point font minimum, must be circulated to your classmates and me in PDF format one full day beforehand. 
 - Final paper: this will describe a strategic plan to meet one specific energy challenge for a specific city. This paper will include a description of your plan and/or intervention, with an assessment of its prospects for success (strengths, weaknesses, other contributing factors necessary), an assessment of the capability of proposed or existing institutions to carry out the plan, and an analysis of its likely environmental, economic, and social effects. You should also turn in basic calculations as needed (not included in the paper page limit), which shows how you derived the key calculations that are the foundation of your paper analysis. Due two days after last class. 
 
 ### Paper criteria
