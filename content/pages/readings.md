@@ -32,8 +32,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                       
-                      
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                        
+                       
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
@@ -42,7 +42,7 @@ Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](h
 
 ### Session 4: Personal Transport
 
-\[DM\] chapters 3, 20, A
+\[DM\] chapters 3, 20, technical chapter A
 
 Daniel A. Mazmanian (2009). ["Los Angeles’ Clean Air Saga—Spanning the Three Epochs."](https://academic.oup.com/mit-press-scholarship-online/book/13354/chapter/166726900) Chapter 4 in Daniel A. Mazmanian and Michael E. Kraft (eds.), *Toward Sustainable Communities: Transition and Transformations in Environmental Policy*. MIT Press. ISBN 9780262134927.
 
@@ -54,7 +54,7 @@ Arianna Skibell. ["EPA Faces Mounting Calls for Stronger Tailpipe Rule."](https:
 
 ### Session 5: Transport Systems   
 
-\[DM\] chapters 5, C
+\[DM\] chapter 5, technical chapter C
 
 Aiofe O'Leary (2019). "Aviation." Chapter 16 in Michael B. Gerrard and John C. Dernbach (eds.), *Legal Pathways to Deep Decarbonization in the United States*, 1st ed. Environmental Law Institute. ISBN: 9781585761975
 
@@ -72,7 +72,7 @@ Tim Gore. ["Confronting Carbon Inequality: Putting Climate Justice at the Heart 
 
 ### Session 7: Building Energy Use
 
-\[DM\] chapters 7, 9, 11, E
+\[DM\] chapters 7, 9, 11, technical chapter E
 
 Deborah A. Sunter, Sergio Castellanos, and Daniel M. Kammen (2019). ["Disparities in Rooftop Photovoltaics Deployment in the United States by Race and Ethnicity."](https://www.nature.com/articles/s41893-018-0204-z) *Nature Sustainability* 2(1): 71–76.
 
@@ -104,13 +104,13 @@ Vaclav Smil (2005). *Energy at the Crossroads: Global Perspectives and Uncertain
 
 ### Session 10:  Industry, Making Stuff
 
-\[DM\] chapters 15, H
+\[DM\] chapter 15, technical chapter H
 
 Bill Gates. ["Here's a Question You Should Ask about Every Climate Change Plan."](https://www.gatesnotes.com/Energy/A-question-to-ask-about-every-climate-plan) August 27, 2019.
 
 Max Åhman, Lars J. Nilsson, and Bengt Johansson (2017). ["Global Climate Policy and Deep Decarbonization of Energy-Intensive Industries."](https://www.tandfonline.com/doi/full/10.1080/14693062.2016.1167009) *Climate Policy* 17(5):634–649.
 
-Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller,                       
+Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller,                        
 Joyashree Roy, Paul Fennell, Betty Cremmins, Thomas Koch Blank, David Hone, Ellen D. Williams, Stephane de la Rue du Can, Bill Sisson, Mike Williams, John Katzenberger, Dallas Burtraw, Girish Sethi, He Ping, David Danielson, Hongyou Lu, Tom Lorber, Jens Dinkel, and Jonas Helseth (2020). ["Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070."](https://www.sciencedirect.com/science/article/pii/S0306261920303603) *Applied Energy* 266: 114848.
 
 David Roberts. ["Cities Are Beginning to Own Up to the Climate Impacts of What They Consume."](https://www.vox.com/energy-and-environment/2019/7/1/18743992/climate-change-cities-food-cars-emissions) Vox, July 1, 2019.
@@ -121,7 +121,7 @@ C40 Cities Climate Leadership Group, University of Leeds, University of New Sout
 
 \[DM\] chapters 23–24
 
-David Roberts. ["Sucking Carbon out of the Air Won't Solve Climate Change."](https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering) Vox, June 14, 2018. URL [https://www.vox.com/energy-and-environment/2018/6/14/17445622/](https://www.vox.com/energy-and-environment/2018/6/14/17445622/)                       
+David Roberts. ["Sucking Carbon out of the Air Won't Solve Climate Change."](https://www.vox.com/energy-and-environment/2018/6/14/17445622/direct-air-capture-air-to-fuels-carbon-dioxide-engineering) Vox, June 14, 2018. URL [https://www.vox.com/energy-and-environment/2018/6/14/17445622/](https://www.vox.com/energy-and-environment/2018/6/14/17445622/)                        
 direct-air-capture-air-to-fuels-carbon-dioxide-engineering.
 
 David W. Keith, Geoffrey Holmes, David St Angelo, and Kenton Heidel (2018). ["A Process for Capturing CO2 from the Atmosphere."](https://www.sciencedirect.com/science/article/pii/S2542435118302253) *Joule* 2(8): 1573–1594.
@@ -132,7 +132,7 @@ Nestor A. Sepulveda, Jesse D. Jenkins, Fernando J. de Sisternes, and Richard K. 
 
 ### Session 12: Solar, Wind
 
-\[DM\] chapters 4, 6, 8, B, D
+\[DM\] chapters 4, 6, 8, technical chapters B, D
 
 David J. C. MacKay (2013). ["Could Energy-Intensive Industries Be Powered by Carbon-Free Electricity?"](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0560) *Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences* 371(1986): 20110560.
 
@@ -172,7 +172,7 @@ Xiongxiong Bai, Yawen Huang, Wei Ren, Mark Coyne, Pierre-Andre Jacinthe, Bo Tao,
 
 Ray Tomalty. ["Carbon in the Bank—Ontario's Greenbelt and Its Role in Mitigating Climate Change."](https://davidsuzuki.org/science-learning-centre-article/carbon-bank-ontarios-greenbelt-role-mitigating-climate-change/) Technical report, David Suzuki Foundation, August 2012.
 
-A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https://www.nature.com/articles/ncomms13835) *Nature Communications* 7                       
+A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https://www.nature.com/articles/ncomms13835) *Nature Communications* 7                        
 (1): 13835.
 
 ### Session 16: 
@@ -181,7 +181,7 @@ A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https
 
 ### Session 17: "The Grid" System
 
-Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf)        
+Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf)         
 [Basics (PDF - 10.5 MB)](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf), chapters 1, 3, 5, 6. Technical report, 2015.
 
 ### Session 18: "The Grid" Continued
@@ -226,7 +226,7 @@ Michael Wara (2016). ["Competition at the Grid Edge: Innovation and Antitrust La
 
 Ari Peskoe (2021). ["Is the Utility Transmission Syndicate Forever?" (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770740). SSRN Scholarly Paper ID 3770740.
 
-Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report,                       
+Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report,                        
 May 2019.
 
 \[skim\] Richard J Campbell. ["Customer Choice and the Power Industry of the Future" (PDF)](https://sgp.fas.org/crs/misc/R43742.pdf). CRS Report R43742, Congressional Research Service, January 2016.
