@@ -31,18 +31,6 @@ This course is designed for any students interested in learning how to intervene
 - For engineers, 54% of all people now live in cities that generate 70% of world carbon emissions and 80% of world GDP; by 2050, 66% of the world's population is expected to be urban. The focus of this class on urban energy use, efficiency, jurisdiction, institutions, and governance complements many other more technical classes at MIT.
 - For climate change: given the uncertain prospects of national and international efforts, efforts in cities may be the fastest and most pragmatic solution.
 
-## Expectations in COVID
-
-For everyone, and most definitely in order of importance:
-
-1. Stay healthy (e.g. sleep, eat, practice self-care, esp. mental!)
-2. Keep each other healthy (e.g. wear masks, practice pre-emptive isolation)
-3. Participate (Come to class, office hours; ask questions, engage on Slack!) 
-4. Communicate (Talk about how things are going with me or others!)
-5. Stay flexible (Everybody continue to do their best!)
-
-Any ideas or suggestions that you have to improve your and our experience are welcome!
-
 ## Learning objectives 
 
 - Learn about the role and potential of cities and users to shape the energy system
@@ -59,7 +47,9 @@ This class is divided into two halves. In the first segment you are learning whi
 
 ## Activities 
 
-In the beginning of class, we will build a composite picture of our class, using our personal experiences and visions for the future to energy systems that you are familiar with. Please calculate the current carbon emissions for yourself and/or an average resident for where (a) you lived before MIT and (b) where and how you think you will live in 2050, using the CoolClimate calculator. In the first half of the semester, before each class, doing the reading and a basic calculation exercise will help build up your understanding of what numbers matter, as well as your background knowledge of a particular city. We will reinforce the knowledge with an exam, but if you do the calculation/homework each week, I expect that the exam should be fairly straightforward. In the second half of the semester, before each class, researching, writing up a few notes, submitting questions, and getting feedback will help you build up the base of knowledge and material that you need to write your paper. We will have group discussions in the last three classes to share knowledge from our papers. This is also a good chance to put finishing touches on your final paper. Writing a good paper is much easier if you plan ahead, get feedback or help from your classmates, the MIT Writing and Communication Center, and myself, and have time to revise.
+In the beginning of class, we will build a composite picture of our class, using our personal experiences and visions for the future to energy systems that you are familiar with. Please calculate the current carbon emissions for yourself and/or an average resident for where (a) you lived before MIT and (b) where and how you think you will live in 2050, using the CoolClimate calculator. In the first half of the semester, before each class, doing the reading and a basic calculation exercise will help build up your understanding of what numbers matter, as well as your background knowledge of a particular city. We will reinforce the knowledge with an exam, but if you do the calculation/homework each week, I expect that the exam should be fairly straightforward. 
+
+In the second half of the semester, before each class, researching, writing up a few notes, submitting questions, and getting feedback will help you build up the base of knowledge and material that you need to write your paper. We will have group discussions in the last three classes to share knowledge from our papers. This is also a good chance to put finishing touches on your final paper. Writing a good paper is much easier if you plan ahead, get feedback or help from your classmates, the MIT Writing and Communication Center, and myself, and have time to revise.
 
 The final paper assignment will synthesize what you lean over the semester by considering the prospects for a technological or policy innovation in a city of your choosing (I recommend your home or future city). Undergraduates will be expected to write a short paper of 5 pages minimum. Graduate students will write a paper of 10 pages minimum, with the additional task of analyzing their chosen city in terms of its expected future demographic changes. See the paper writing guidelines below.
 
@@ -158,11 +148,7 @@ Problem sets and reading questions are due by midnight (11:59 pm) the day before
 
 ### Extensions
 
-Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically. if you miss the midnight deadline. I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the [Office of the Dean of Graduate Education](http://odge.mit.edu/); if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
-
-## ADA Accommodations 
-
-Any student who, because of a disability, may require special arrangements in order to meet course requirements should contact me as soon as possible to make necessary arrangements with MIT's [Student Disabilities Services](http://web.mit.edu/uaap/sds/index.html).
+Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically. If you miss the midnight deadline, I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the [Office of the Dean of Graduate Education](http://odge.mit.edu/); if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
 
 ## Academic Integrity
 
