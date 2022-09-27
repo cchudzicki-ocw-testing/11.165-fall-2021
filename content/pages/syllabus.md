@@ -57,7 +57,7 @@ The final paper assignment will synthesize what you lean over the semester by co
 
 There are two books for the class. The first is required and the second is optional: 
 
-- Required (free): MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed.. UIT Cambridge Ltd. ISBN: 9780954452933. Available in paperback from your local or global bookseller for $27–50, and/or can be downloaded legally as a PDF or read in webpage format at [withouthotair.com](withouthotair.com).
+- Required (free): MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed.. UIT Cambridge Ltd. ISBN: 9780954452933. Available in paperback from your local or global bookseller for $27–50, and/or can be downloaded legally as a PDF or read in webpage format at [http://withouthotair.com/](http://withouthotair.com/).
 - Optional: Hawken, Paul, ed. 2017. *Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming.* Penguin. ISBN: 9780143130444.
 
 Other papers assigned for each class are listed on the {{% resource_link "c1dcc394-8b93-4ab1-a0b0-eae57ec3b56c" "Readings" %}} page.
