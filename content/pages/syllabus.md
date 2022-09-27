@@ -148,7 +148,7 @@ Problem sets and reading questions are due by midnight (11:59 pm) the day before
 
 ### Extensions
 
-Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically. If you miss the midnight deadline, I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the [Office of the Dean of Graduate Education](http://odge.mit.edu/); if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
+Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically. If you miss the midnight deadline, I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the [Office of Graduate Education](https://oge.mit.edu/); if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
 
 ## Academic Integrity
 
