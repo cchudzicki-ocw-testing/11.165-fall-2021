@@ -12,7 +12,7 @@ uid: c1dcc394-8b93-4ab1-a0b0-eae57ec3b56c
 
 \[DM\] chapters 1, 2
 
-Bill Gates. ["Climate Change and the 75% Problem."](https://www.gatesnotes.com/energy/my-plan-for-fighting-climate-change) Gatesnotes, October 17, 2018.
+Bill Gates. ["Climate Change and the 75% Problem."](https://www.gatesnotes.com/energy/my-plan-for-fighting-climate-change) GatesNotes, October 17, 2018.
 
 Nikayla Jefferson and Leah C. Stokes. ["Our Racist Fossil Fuel Energy System."](https://www.bostonglobe.com/2020/07/13/opinion/our-racist-fossil-fuel-energy-system/) BostonGlobe.com, July 13, 2020.
 
@@ -32,8 +32,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                          
-                         
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                           
+                          
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
@@ -132,9 +132,9 @@ Nestor A. Sepulveda, Jesse D. Jenkins, Fernando J. de Sisternes, and Richard K. 
 
 \[DM\] chapters 4, 6, 8, technical chapters B, D
 
-David J. C. MacKay (2013). ["Could Energy-Intensive Industries Be Powered by Carbon-Free Electricity?"](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0560) *Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences* 371(1986): 20110560.
+David J. C. MacKay (2013). ["Could Energy-Intensive Industries Be Powered by Carbon-Free Electricity?"](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0560) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1986): 20110560.
 
-David J. C. MacKay (2013). ["Solar Energy in the Context of Energy Use, Energy Transportation and Energy Storage."](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0431) *Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences* 371(1996): 20110431.
+David J. C. MacKay (2013). ["Solar Energy in the Context of Energy Use, Energy Transportation and Energy Storage."](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2011.0431) *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences* 371(1996): 20110431.
 
 ### Session 13: More Renewables
 
@@ -152,7 +152,7 @@ Lazard. [Lazard's Levelized Cost of Energy Analysis 14.0 (PDF)](https://www.laza
 
 \[DM\] chapters 25–27
 
-Micah S. Ziegler, Joshua M. Mueller, Gonçalo D. Pereira, Juhyun Song, Marco Ferrara, Yet-Ming Chiang, and Jessika E. Trancik (2019). ["Storage Requirements and Costs of Shaping Renewable Energy Toward Grid Decarbonization."](https://www.sciencedirect.com/science/article/pii/S2542435119303009) *Joule* 3(11): 2867–2869.
+Micah S. Ziegler, Joshua M. Mueller, Gonçalo D. Pereira, Juhyun Song, Marco Ferrara, Yet-Ming Chiang, and Jessika E. Trancik (2019). ["Storage Requirements and Costs of Shaping Renewable Energy Toward Grid Decarbonization."](https://www.sciencedirect.com/science/article/pii/S2542435119303009) *Joule* 3(9): 2134–2153.
 
 Diane Cardwell and Andrew Roberts. ["The Biggest, Strangest 'Batteries.'"](https://www.nytimes.com/2017/06/03/business/energy-environment/biggest-batteries.html) *The New York Times*, June 3, 2017.
 
@@ -162,7 +162,7 @@ Lazard. [Lazard's Levelized Cost of Storage Analysis 6.0 (PDF)](https://www.laza
 
 \[DM\] chapter 13
 
-\[skim\] Global Carbon Project (GCP). ["Global Methane Budget" (PDF - 4.5 MB)](https://www.globalcarbonproject.org/methanebudget/). Technical report, July 2020.
+\[skim\] Global Carbon Project (GCP). ["Global Methane Budget."](https://www.globalcarbonproject.org/methanebudget/) Technical report, July 2020.
 
 Diana Pape, Jan Lewandrowski, Rachel Steele, Derina Man, Marybeth Riley-Gilbert, Katrin Moffroid, and Sarah Kolansky. ["Managing Agricultural Land for Greenhouse Gas Mitigation within the United States" (PDF - 4 MB).](https://www.usda.gov/sites/default/files/documents/White_Paper_WEB71816.pdf) Technical report, ICF International, July 2016.
 
@@ -220,7 +220,7 @@ David Roberts. ["A Major US Utility is Moving toward 100% Clean Energy Faster th
 
 Michael Wara (2016). ["Competition at the Grid Edge: Innovation and Antitrust Law in the Electricity Sector."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2765502) *New York University Environmental Law Journal*, 25(2): 176–222.
 
-Ari Peskoe (2021). ["Is the Utility Transmission Syndicate Forever?" (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770740). SSRN Scholarly Paper ID 3770740.
+Ari Peskoe (2021). ["Is the Utility Transmission Syndicate Forever?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770740) SSRN Scholarly Paper ID 3770740.
 
 Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report, May 2019.
 
@@ -234,7 +234,7 @@ Tineke van der Schoor, Harro van Lente, Bert Scholtens, and Alexander Peine (201
 
 Efrain O'Neill-Carrillo, Isaac Jordán, Agustín Irizarry-Rivera, and Rafael Cintrón (2018). ["The Long Road to Community Microgrids: Adapting to the Necessary Changes for Renewable Energy Implementation."](https://ieeexplore.ieee.org/document/8551301) *IEEE Electrification Magazine* 6(4): 6–17.
 
-David Hsu (2021). ["Straight out of Cape Cod: The Origin of Community Choice Aggregation and Its Spread to Other States."](https://www.sciencedirect.com/science/article/pii/S2214629621004783) *Energy Research & Social Science* 86: 102393.
+David Hsu (202). ["Straight out of Cape Cod: The Origin of Community Choice Aggregation and Its Spread to Other States."](https://www.sciencedirect.com/science/article/pii/S2214629621004783) *Energy Research & Social Science* 86: 102393.
 
 \[skim\] Ignacio Pérez-Arriaga and Christopher Knittel. [The Utility of the Future (PDF - 11 MB)](https://energy.mit.edu/wp-content/uploads/2016/12/Utility-of-the-Future-Full-Report.pdf). Technical report, MIT Energy Initiatve, 2016.
 
