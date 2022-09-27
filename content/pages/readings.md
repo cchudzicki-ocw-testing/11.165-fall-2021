@@ -32,8 +32,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                         
-                        
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                          
+                         
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
@@ -110,8 +110,7 @@ Bill Gates. ["Here's a Question You Should Ask about Every Climate Change Plan.
 
 Max Åhman, Lars J. Nilsson, and Bengt Johansson (2017). ["Global Climate Policy and Deep Decarbonization of Energy-Intensive Industries."](https://www.tandfonline.com/doi/full/10.1080/14693062.2016.1167009) *Climate Policy* 17(5):634–649.
 
-Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller,                         
-Joyashree Roy, Paul Fennell, Betty Cremmins, Thomas Koch Blank, David Hone, Ellen D. Williams, Stephane de la Rue du Can, Bill Sisson, Mike Williams, John Katzenberger, Dallas Burtraw, Girish Sethi, He Ping, David Danielson, Hongyou Lu, Tom Lorber, Jens Dinkel, and Jonas Helseth (2020). ["Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070."](https://www.sciencedirect.com/science/article/pii/S0306261920303603) *Applied Energy* 266: 114848.
+Jeffrey Rissman, Chris Bataille, Eric Masanet, Nate Aden, William R. Morrow, Nan Zhou, Neal Elliott, Rebecca Dell, Niko Heeren, Brigitta Huckestein, Joe Cresko, Sabbie A. Miller, Joyashree Roy, Paul Fennell, Betty Cremmins, Thomas Koch Blank, David Hone, Ellen D. Williams, Stephane de la Rue du Can, Bill Sisson, Mike Williams, John Katzenberger, Dallas Burtraw, Girish Sethi, He Ping, David Danielson, Hongyou Lu, Tom Lorber, Jens Dinkel, and Jonas Helseth (2020). ["Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070."](https://www.sciencedirect.com/science/article/pii/S0306261920303603) *Applied Energy* 266: 114848.
 
 David Roberts. ["Cities Are Beginning to Own Up to the Climate Impacts of What They Consume."](https://www.vox.com/energy-and-environment/2019/7/1/18743992/climate-change-cities-food-cars-emissions) Vox, July 1, 2019.
 
@@ -179,8 +178,7 @@ A. M. Nahlik and M. S. Fennessy (2016). ["Carbon Storage in US Wetlands."](https
 
 ### Session 17: "The Grid" System
 
-Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf)          
-[Basics (PDF - 10.5 MB)](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf), chapters 1, 3, 5, 6. Technical report, 2015.
+Federal Energy Regulatory Commission. [Energy Primer: A Handbook of Energy Market Basics (PDF - 10.5 MB)](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf), chapters 1, 3, 5, 6. Technical report, 2015.
 
 ### Session 18: "The Grid" Continued
 
@@ -224,8 +222,7 @@ Michael Wara (2016). ["Competition at the Grid Edge: Innovation and Antitrust La
 
 Ari Peskoe (2021). ["Is the Utility Transmission Syndicate Forever?" (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770740). SSRN Scholarly Paper ID 3770740.
 
-Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report,                         
-May 2019.
+Vote Solar, MnSEIA, and the Institute for Local Self Reliance. ["Minnesota's Solar Gardens: The Status and Benefits of Community Solar" (PDF - 3.7 MB)](https://votesolar.org/wp-content/uploads/2021/01/VS-Minnesota-Solar_Gardens-2019-Report.pdf) Technical report, May 2019.
 
 \[skim\] Richard J Campbell. ["Customer Choice and the Power Industry of the Future" (PDF)](https://sgp.fas.org/crs/misc/R43742.pdf). CRS Report R43742, Congressional Research Service, January 2016.
 
